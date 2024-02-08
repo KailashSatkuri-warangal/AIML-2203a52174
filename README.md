@@ -5,4 +5,5 @@ Repository projects and assignments
 [lab03] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/AIML_A3.pdf)
 # Lab Code Notebooks
 [lab01] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab01.ipynb)<br>
-[lab02] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab2.ipynb)
+[lab02] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab2.ipynb)<br>
+[lab03] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab03.ipynb)
