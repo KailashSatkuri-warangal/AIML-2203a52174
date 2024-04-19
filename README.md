@@ -19,3 +19,6 @@ Repository projects and assignments
 [lab07] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab07.ipynb)<br>
 [lab08] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab08.ipynb)<br>
 [lab09] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab09.ipynb)<br>
+<br>
+# project on IoT-Device-Anomaly-Detection
+[project] (https://github.com/satkurikailash/AIML-project-IoT-Device-Anomaly-Detection)
