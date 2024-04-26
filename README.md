@@ -9,6 +9,7 @@ Repository projects and assignments
 [lab07] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/AIML_A7.pdf)<br>
 [lab08] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/AIML_A8.pdf)<br>
 [lab09] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/AIML_A9.pdf)<br>
+[lab10] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/AIML_A10.pdf)<br>
 # Lab Code Notebooks
 [lab01] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab01.ipynb)<br>
 [lab02] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab02.ipynb)<br>
@@ -19,6 +20,7 @@ Repository projects and assignments
 [lab07] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab07.ipynb)<br>
 [lab08] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab08.ipynb)<br>
 [lab09] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab09.ipynb)<br>
+[lab10] (https://github.com/satkurikailash/AIML-2203a52174/blob/main/Lab10.ipynb)<br>
 <br>
 # project on IoT-Device-Anomaly-Detection
 [project] (https://github.com/satkurikailash/AIML-project-IoT-Device-Anomaly-Detection)
